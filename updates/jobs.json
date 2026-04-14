@@ -1,0 +1,24 @@
+[
+  {
+    "id": "job-101",
+    "category": "Job Notification",
+    "title": "SSC CGL 2026 Notification Out",
+    "content": "Staff Selection Commission has released the notification for CGL 2026. Apply online from today.",
+    "titleHindi": "SSC CGL 2026 अधिसूचना जारी",
+    "summaryHindi": "कर्मचारी चयन आयोग ने CGL 2026 के लिए अधिसूचना जारी कर दी है। आज से ऑनलाइन आवेदन करें।",
+    "isImportant": true,
+    "date": "2026-04-14",
+    "url": "https://ssc.gov.in"
+  },
+  {
+    "id": "scholar-101",
+    "category": "Scholarship",
+    "title": "Post-Matric Scholarship 2026 Open",
+    "content": "Applications are invited for the Post-Matric Scholarship for SC/ST/OBC students in Rajasthan.",
+    "titleHindi": "उत्तर-मैट्रिक छात्रवृत्ति 2026 शुरू",
+    "summaryHindi": "राजस्थान में SC/ST/OBC छात्रों के लिए उत्तर-मैट्रिक छात्रवृत्ति के लिए आवेदन आमंत्रित किए गए हैं।",
+    "isImportant": false,
+    "date": "2026-04-10",
+    "url": "https://sjms.rajasthan.gov.in/"
+  }
+]
